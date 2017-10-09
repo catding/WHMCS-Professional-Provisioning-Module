@@ -1,6 +1,6 @@
 ************************************************
 
- *** SoluteDNS for WHMC Provisioning Module ***
+## SoluteDNS for WHMC Provisioning Module
 
 Copyright (C) NetDistrict 2011-2017
 All Rights Reserved
