@@ -18,7 +18,7 @@ DOCUMENTATION:
 ----------------------------------------------
 Please see for help the documentation at:
 
- - forum.solutedns.com/viewtopic.php?f=17&t=45
+ - https://forum.solutedns.com/viewtopic.php?f=17&t=45
 
 
 SUPPORT:
